@@ -49,8 +49,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/lbl"
+        android:textSize="20sp"
+        android:textColor="#DA1818"
         android:layout_marginTop="20dp"
-        android:text=""/>
+        android:text=" Hi Boss kemon aco"/>
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
